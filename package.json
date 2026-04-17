@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "railway": "^2.0.17"
-  }
+  },
+  "name": "librabtye-main",
+  "version": "1.0.0",
+  "description": "This repository contains SQL code for creating a `library_system` database with the following tables:\r - `users` table: Stores information about users.\r - `favorites` table: Stores user-favorite books.\r - `website_reviews` table: Stores reviews left by users.",
+  "main": "firebase.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HPD-3/Librabyte.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HPD-3/Librabyte/issues"
+  },
+  "homepage": "https://github.com/HPD-3/Librabyte#readme"
 }
